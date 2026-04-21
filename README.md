@@ -1,6 +1,6 @@
 # 📊 Power BI Sales Dashboard (Superstore Analysis)
 
-![Dashboard](03_Dashboard.jpg)
+![Dashboard](./03_Dashboard.jpg)
 
 
 ## 📌 Overview
